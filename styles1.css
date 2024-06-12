@@ -1,0 +1,13 @@
+project/
+│
+├── index.html
+├── styles.css
+├── script.js
+├── spec/
+│   ├── index.html
+│   ├── todoSpec.js
+├── jasmine/
+│   ├── jasmine.css
+│   ├── jasmine.js
+│   ├── jasmine-html.js
+│   ├── boot.js
